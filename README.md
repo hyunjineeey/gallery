@@ -6,7 +6,7 @@
 
 ## Bootstrap
 
-This is simple photo gallery using bootstrap 3.3.5
+This is simple image gallery using bootstrap 3.3.5
 
 ## Responsive Web
 
