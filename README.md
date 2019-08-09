@@ -1,4 +1,4 @@
-# gallery
+# Image Gallery
 
 *Created by Hyunjin*
 
